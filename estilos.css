@@ -130,6 +130,22 @@ nav a {
     background-color: #111111;
     color: white;
 }
+.boton-whatsapp {
+    display: block;
+    width: fit-content;
+    margin: 12px auto 25px;
+    padding: 14px 28px;
+    background-color: #111111;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.boton-whatsapp:hover {
+    background-color: #F5C400;
+    color: #111111;
+}
 .servicio h3 {
     color: #111111;
     border-bottom: 2px solid #F5C400;
